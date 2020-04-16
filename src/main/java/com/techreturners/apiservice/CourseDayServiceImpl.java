@@ -24,7 +24,7 @@ public class CourseDayServiceImpl implements CourseDayService {
                 break;
             }
             case 4: {
-                description = "CI/CD with Jenkins";
+                description = "CI/CD with Jenkins and DevOps";
                 break;
             }
             case 5: {
